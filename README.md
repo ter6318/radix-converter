@@ -1,4 +1,4 @@
-# radix converter
+# Radix converter
 
 A Raycast extension for converting among decimal, binary, octal, and hexadecimal numbers.
 
