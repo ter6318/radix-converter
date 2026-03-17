@@ -10,4 +10,4 @@ A Raycast extension for converting among decimal, binary, octal, and hexadecimal
 
 ## Screencast
 
-![demo](https://github.com/user-attachments/assets/d7f9e9cb-4688-4b87-9098-6452a81d602e)
+https://github.com/user-attachments/assets/5f058f65-7ed0-4962-b16d-dc9f256004fe
