@@ -10,4 +10,4 @@ A Raycast extension for converting among decimal, binary, octal, and hexadecimal
 
 ## Screencast
 
-<video src="https://raw.githubusercontent.com/ter6318/radix-converter/refs/heads/image/images/output.mp4" controls></video>
+![demo](https://github.com/user-attachments/assets/d7f9e9cb-4688-4b87-9098-6452a81d602e)
